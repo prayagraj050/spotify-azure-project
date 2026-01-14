@@ -1,0 +1,9 @@
+{
+	"name": "factoryspotifyproject",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e6fb06c-af9e-4646-9f67-38a804944c01",
+		"tenantId": "fde77d22-cf8f-4a4c-8dff-bedc781d45cc"
+	}
+}
